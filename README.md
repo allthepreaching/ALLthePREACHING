@@ -13,7 +13,7 @@ This site is here to spread the Gospel of Jesus Christ and expose the truth of t
 So be sure to check back daily for new content!
 
 - 🔭 I’m currently working on maintaining all the video content for the NIFB.
-📫 How to reach me: admin@allthepreaching.com
+- 📫 How to reach me: admin@allthepreaching.com
 <!--
 **allthepreaching/ALLthePREACHING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
